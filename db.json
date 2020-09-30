@@ -1,0 +1,408 @@
+{
+  "words": [
+    {
+      "type": "verb",
+      "label": "bleed",
+      "preterit": "bled",
+      "participe": "bled",
+      "translation": "saigner"
+    },
+    {
+      "type": "vocabulary",
+      "label": "bulb",
+      "translation": "ampoule"
+    },
+    {
+      "type": "verb",
+      "label": "blow",
+      "preterit": "blew",
+      "participe": "blown",
+      "translation": "souffler"
+    },
+    {
+      "type": "verb",
+      "label": "bind",
+      "preterit": "bound",
+      "participe": "bound",
+      "translation": "lier"
+    },
+    {
+      "type": "vocabulary",
+      "label": "necktie",
+      "translation": "cravate"
+    },
+    {
+      "type": "vocabulary",
+      "label": "chest",
+      "translation": "poitrine"
+    },
+    {
+      "type": "vocabulary",
+      "label": "swollen",
+      "translation": "enflé"
+    },
+    {
+      "type": "vocabulary",
+      "label": "toes",
+      "translation": "orteils"
+    },
+    {
+      "type": "vocabulary",
+      "label": "spark",
+      "translation": "etincelle"
+    },
+    {
+      "type": "vocabulary",
+      "label": "unless",
+      "translation": "à moins"
+    },
+    {
+      "type": "vocabulary",
+      "label": "so far",
+      "translation": "pour l'instant"
+    },
+    {
+      "type": "vocabulary",
+      "label": "tight-lipped",
+      "translation": "bouche cousue"
+    },
+    {
+      "type": "vocabulary",
+      "label": "harsh",
+      "translation": "sévère"
+    },
+    {
+      "type": "vocabulary",
+      "label": "bell",
+      "translation": "cloche"
+    },
+    {
+      "type": "vocabulary",
+      "label": "stub",
+      "translation": "mégot"
+    },
+    {
+      "type": "vocabulary",
+      "label": "tray",
+      "translation": "plateau"
+    },
+    {
+      "type": "vocabulary",
+      "label": "glance",
+      "translation": "coup d'oeil"
+    },
+    {
+      "type": "vocabulary",
+      "label": "actually",
+      "translation": "vraiment|en fait"
+    },
+    {
+      "type": "vocabulary",
+      "label": "aware",
+      "translation": "attentif"
+    },
+    {
+      "type": "vocabulary",
+      "label": "thorough",
+      "translation": "minutieux"
+    },
+    {
+      "type": "vocabulary",
+      "label": "harbour",
+      "translation": "port"
+    },
+    {
+      "type": "vocabulary",
+      "label": "heat",
+      "translation": "chaleur"
+    },
+    {
+      "type": "vocabulary",
+      "label": "pin",
+      "translation": "épingle"
+    },
+    {
+      "type": "vocabulary",
+      "label": "thogh",
+      "translation": "dur"
+    },
+    {
+      "type": "vocabulary",
+      "label": "though",
+      "translation": "bien que"
+    },
+    {
+      "type": "vocabulary",
+      "label": "through",
+      "translation": "à travers"
+    },
+    {
+      "type": "verb",
+      "label": "think",
+      "preterit": "thought",
+      "participe": "thought",
+      "translation": "penser"
+    },
+    {
+      "type": "verb",
+      "label": "mean",
+      "preterit": "meant",
+      "participe": "meant",
+      "translation": "signifier|penser"
+    },
+    {
+      "type": "vocabulary",
+      "label": "among",
+      "translation": "parmi"
+    },
+    {
+      "type": "vocabulary",
+      "label": "fence",
+      "translation": "cloture"
+    },
+    {
+      "type": "vocabulary",
+      "label": "cheek",
+      "translation": "joue"
+    },
+    {
+      "type": "vocabulary",
+      "label": "sand",
+      "translation": "sable"
+    },
+    {
+      "type": "vocabulary",
+      "label": "clerk",
+      "translation": "vendeur"
+    },
+    {
+      "type": "vocabulary",
+      "label": "vendor",
+      "translation": "vendeur"
+    },
+    {
+      "type": "vocabulary",
+      "label": "every once",
+      "translation": "à chaque fois"
+    },
+    {
+      "type": "vocabulary",
+      "label": "foreign",
+      "translation": "étranger"
+    },
+    {
+      "type": "vocabulary",
+      "label": "Neither do",
+      "translation": "il en va de même pour"
+    },
+    {
+      "type": "vocabulary",
+      "label": "perhaps",
+      "translation": "peut-être"
+    },
+    {
+      "type": "vocabulary",
+      "label": "jam",
+      "translation": "embouteillage"
+    },
+    {
+      "type": "vocabulary",
+      "label": "toward",
+      "translation": "vers"
+    },
+    {
+      "type": "vocabulary",
+      "label": "wherever",
+      "translation": "partout"
+    },
+    {
+      "type": "vocabulary",
+      "label": "whatever",
+      "translation": "peu importe"
+    },
+    {
+      "type": "vocabulary",
+      "label": "anyway",
+      "translation": "de toute façon"
+    },
+    {
+      "type": "vocabulary",
+      "label": "on hold",
+      "translation": "en attente"
+    },
+    {
+      "type": "vocabulary",
+      "label": "after a while",
+      "translation": "après un certain temps"
+    },
+    {
+      "type": "vocabulary",
+      "label": "till",
+      "translation": "jusqu'à"
+    },
+    {
+      "type": "vocabulary",
+      "label": "right next to",
+      "translation": "juste à côté"
+    },
+    {
+      "type": "vocabulary",
+      "label": "ever",
+      "translation": "déjà|tellement"
+    },
+    {
+      "type": "vocabulary",
+      "label": "jewelry",
+      "translation": "bijoux"
+    },
+    {
+      "type": "vocabulary",
+      "label": "worse",
+      "translation": "moins bien"
+    },
+    {
+      "type": "vocabulary",
+      "label": "worst",
+      "translation": "pire"
+    },
+    {
+      "type": "vocabulary",
+      "label": "witness",
+      "translation": "témoin"
+    },
+    {
+      "type": "vocabulary",
+      "label": "close",
+      "translation": "près"
+    },
+    {
+      "type": "vocabulary",
+      "label": "further",
+      "translation": "plus loin"
+    },
+    {
+      "type": "vocabulary",
+      "label": "there",
+      "translation": "là|là-bas"
+    },
+    {
+      "type": "vocabulary",
+      "label": "slice",
+      "translation": "tranche"
+    },
+    {
+      "type": "vocabulary",
+      "label": "spring",
+      "translation": "printemps|ressort"
+    },
+    {
+      "type": "vocabulary",
+      "label": "tough",
+      "translation": "dur|solide"
+    },
+    {
+      "type": "vocabulary",
+      "label": "come by",
+      "translation": "passer|trouver"
+    },
+    {
+      "type": "vocabulary",
+      "label": "steam",
+      "translation": "vapeur"
+    },
+    {
+      "type": "verb",
+      "label": "rid",
+      "preterit": "rid",
+      "participe": "rid",
+      "translation": "débarasser"
+    },
+    {
+      "type": "verb",
+      "label": "ride",
+      "preterit": "rode",
+      "participe": "ridden",
+      "translation": "faire|chevaucher"
+    },
+    {
+      "type": "verb",
+      "label": "pawn",
+      "preterit": "pawned",
+      "participe": "pawned",
+      "translation": "mettre en gage"
+    },
+    {
+      "type": "verb",
+      "label": "frown",
+      "preterit": "frowned",
+      "participe": "frowned",
+      "translation": "froncer les sourcils"
+    },
+    {
+      "type": "verb",
+      "label": "chew",
+      "preterit": "chewed",
+      "participe": "chewed",
+      "translation": "macher"
+    },
+    {
+      "type": "verb",
+      "label": "discard",
+      "preterit": "discarded",
+      "participe": "discarded",
+      "translation": "jeter|rejeter|abandonner"
+    },
+    {
+      "type": "verb",
+      "label": "spare",
+      "preterit": "spared",
+      "participe": "spared",
+      "translation": "épagner"
+    },
+    {
+      "type": "verb",
+      "label": "abort",
+      "preterit": "aborted",
+      "participe": "aborted",
+      "translation": "avorter|interrompre|abandonner"
+    },
+    {
+      "type": "verb",
+      "label": "throw",
+      "preterit": "threw",
+      "participe": "thrown",
+      "translation": "jeter|lancer"
+    },
+    {
+      "type": "vocabulary",
+      "label": "throw up",
+      "translation": "vomir"
+    },
+    {
+      "type": "verb",
+      "label": "swear",
+      "preterit": "swore",
+      "participe": "sworn",
+      "translation": "jurer|promettre"
+    },
+    {
+      "type": "verb",
+      "label": "escalate",
+      "preterit": "escalated",
+      "participe": "escalated",
+      "translation": "intensifier"
+    },
+    {
+      "type": "vocabulary",
+      "label": "rather",
+      "translation": "plutot|préférer"
+    },
+    {
+      "type": "verb",
+      "label": "holler",
+      "preterit": "hollered",
+      "participe": "hollered",
+      "translation": "crier|hurler|brailler"
+    }
+  ]
+}
